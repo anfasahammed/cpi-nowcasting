@@ -193,14 +193,7 @@ LSTM competitive but slower than LASSO (speed-accuracy tradeoff)
 
 🚀 Future Work
 
-Add real-time alternative data (credit card spending, mobility indices)
-Ensemble LASSO + NG-Boost for point + interval forecasts
 Deploy as API for live nowcasting
-Extend to PCE (Personal Consumption Expenditures) inflation
-
-
-📜 License
-Educational/Research Use
 
 👥 Team
 
